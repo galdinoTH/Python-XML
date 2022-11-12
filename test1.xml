@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<pais nome="Brasil">
+  <estado nome="São Paulo">
+    <Cidade nome="Francisco Morato">
+      <habitantes>320.000</habitantes>
+    </Cidade>
+    <Cidade nome="Franco da Rocha">
+      <habitantes>280.000</habitantes>
+    </Cidade>
+    <Cidade nome="Jundiai">
+      <habitantes>200.000</habitantes>
+    </Cidade>
+  </estado>
+  <estado nome="Rio de Janeiro"/>
+</pais>
